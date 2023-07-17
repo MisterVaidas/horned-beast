@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MisterVaidas/horned-beast/static/css/main.37da9a1b.css",
+    "main.js": "/MisterVaidas/horned-beast/static/js/main.1cb5a854.js",
+    "static/js/787.1d59c1f4.chunk.js": "/MisterVaidas/horned-beast/static/js/787.1d59c1f4.chunk.js",
+    "static/media/Babhomet.jpg": "/MisterVaidas/horned-beast/static/media/Babhomet.891920059d5221a0899e.jpg",
+    "static/media/Minotaur.jpg": "/MisterVaidas/horned-beast/static/media/Minotaur.91a4b5e17a140a63664d.jpg",
+    "index.html": "/MisterVaidas/horned-beast/index.html",
+    "main.37da9a1b.css.map": "/MisterVaidas/horned-beast/static/css/main.37da9a1b.css.map",
+    "main.1cb5a854.js.map": "/MisterVaidas/horned-beast/static/js/main.1cb5a854.js.map",
+    "787.1d59c1f4.chunk.js.map": "/MisterVaidas/horned-beast/static/js/787.1d59c1f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37da9a1b.css",
+    "static/js/main.1cb5a854.js"
+  ]
+}
